@@ -1,0 +1,63 @@
+div{
+  display:none;
+}
+body{background:black;
+color: white;
+font-family: "Comic Sans MS";
+font-size: 16pt;
+}
+a:hover{
+  color:red;
+  font-weight: bold;
+}
+
+#survive{
+  color:green;
+  font-weight: bold;
+  text-align:center;
+  font-size: 32pt;
+}
+
+#die{
+  color:red;
+  font-weight: bold;
+  text-align:center;
+  font-size:32pt;
+}
+
+
+.q{
+  color:grey;
+  font-size: 20pt;
+}
+
+#inv{
+  text-align:left;
+  position: fixed;
+  bottom: 300;
+}
+
+
+#demo{
+     position: fixed;
+     text-align: left;
+     bottom: 250px;
+ }
+
+#egg{
+  background-color:black;
+  color:black;
+  font-weight: bold;
+  text-align: right;
+  font-size: 10pt;
+}
+ #egg:hover{
+   color:white
+ }
+
+ #easteregg{
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
